@@ -99,7 +99,7 @@ O curso é dividido em duas partes:
 - Aula 90: TrackBar
 - Aula 91: Componente TreeView
 - Aula 93: SplitContainer
-- Aula 94: TabControl
+- Aula 94: TabControlupdate
 
 ## :computer: Ferramentas utilizadas:
 

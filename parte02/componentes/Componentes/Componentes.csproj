@@ -160,6 +160,12 @@
     <Compile Include="forms\F_SplitContainer.Designer.cs">
       <DependentUpon>F_SplitContainer.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\F_TabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\F_TabControl.Designer.cs">
+      <DependentUpon>F_TabControl.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="forms\F_NumericUpDown.resx">
@@ -218,6 +224,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="forms\F_SplitContainer.resx">
       <DependentUpon>F_SplitContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\F_TabControl.resx">
+      <DependentUpon>F_TabControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
