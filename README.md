@@ -1,12 +1,12 @@
-# :rocket: Curso Completo de C#
+<h1> :rocket: Curso Completo de C# </h1>
 
-## Sobre o Curso
+<h3>Sobre o Curso</h3>
 
 Curso de lógica de programação POO e Windows Forms utilizando a linguagem C#.<br>
 O curso é dividido em duas partes:
 
-- Primeira parte conhecendo a linguagem C#.
-- Segunda parte utilizando Windows Forms.
+- <a href="https://github.com/danhpaiva/cfb-csharp-2020/tree/master/parte01"> Primeira parte conhecendo a linguagem C# </a>.
+- <a href="https://github.com/danhpaiva/cfb-csharp-2020/tree/master/parte02"> Segunda parte utilizando Windows Forms. </a>
 
 ## Primeira Parte
 
@@ -69,7 +69,6 @@ O curso é dividido em duas partes:
 - Aula 57: Coleção List - Parte 01
 - Aula 58: Coleção List - Parte 02
 - Aula 59: Coleção Queue (Fila)
-- 
 
 ## Segunda Parte
 - Aula 60: Instalação e Introdução Visual Studio 2019
