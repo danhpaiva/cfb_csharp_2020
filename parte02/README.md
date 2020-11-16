@@ -1,4 +1,4 @@
-<h2>:scrool: Segunda Parte </h2>
+<h2>:scroll: Segunda Parte </h2>
 Tópicos abordados:
 
 - Aula 60: Instalação e Introdução Visual Studio 2019
