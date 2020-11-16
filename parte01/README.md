@@ -1,4 +1,5 @@
 <h2>Primeira Parte</h2>
+Tópicos abordados:
 
 - Aula 01: "Olá mundo"
 - Aula 02: Criando primeiro programa no padrão csharp.net
