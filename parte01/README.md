@@ -1,4 +1,4 @@
-<h2>:scrool:Primeira Parte</h2>
+<h2>:scroll: Primeira Parte</h2>
 Tópicos abordados:
 
 - Aula 01: "Olá mundo"
