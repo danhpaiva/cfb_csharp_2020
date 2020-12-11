@@ -100,7 +100,7 @@ O curso é dividido em duas partes:
 - Aula 93: SplitContainer
 - Aula 94: TabControlupdate
 
-## :computer: Ferramentas utilizadas:
+## :toolbox: Ferramentas utilizadas:
 
 - Visual Studio Code
 - CSC compiler (compilador nativo do Windows)
